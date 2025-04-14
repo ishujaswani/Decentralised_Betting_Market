@@ -9,11 +9,10 @@ A Decentralized Esports Betting DApp with Betting Insurance using Smart Contract
 This DApp allows users to place bets on esports events in a transparent and secure manner using smart contracts.  Key features include:
 
 * **Decentralized Betting:** Bets are processed on the blockchain, eliminating the need for a central authority.
-* **Betting Insurance:**  A mechanism is implemented to provide insurance against unexpected events or platform failures.  (Further details on the implementation of this feature would be needed from the codebase to provide specifics).
-* **Transparent Odds:**  Betting odds are determined algorithmically and publicly viewable. (Again, specifics from the codebase would improve this description).
+* **Betting Insurance:**  A mechanism is implemented to provide insurance against unexpected events or platform failures.
+* **Transparent Odds:**  Betting odds are determined algorithmically and publicly viewable.
 * **User Accounts:** Secure user accounts for managing bets and funds.
-* **Real-time Updates:**  Live updates on bet statuses and event outcomes. (Implementation details needed from the code).
-
+* **Real-time Updates:**  Live updates on bet statuses and event outcomes.
 
 ## Technology Stack
 
